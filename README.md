@@ -2,7 +2,11 @@
 ### *Where Geometry Meets Adventure!*
 
 **An engaging Python game that makes learning angles fun and interactive for kids.**
+## 🎬 See It In Action
 
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-See%20Demo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/juanjbetancur852_this-engaging-educational-game-developed-activity-7325703793843597314-Md0S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAyiydMB5-J-s8kL7yP32ISJCWjio3_1QsU)
+
+##### *Click above to watch the full application demo and see students engaging with the Pi Day Challenge!*
 ---
 
 ## 🎮 What is AngleMaze?
@@ -47,13 +51,6 @@ Navigate through the maze pathways and reach the **exit point marked by red door
 - **Engaging Gameplay**: Learning disguised as adventure
 - **Progressive Difficulty**: Students build confidence as they advance
 - **Real-World Application**: Practical use of mathematical tools
-
----
-
-## 🔗 Learn More
-
-Check out an AngleMaze animation on LinkedIn:
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-See%20Demo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/juanjbetancur852_this-engaging-educational-game-developed-activity-7325703793843597314-Md0S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAyiydMB5-J-s8kL7yP32ISJCWjio3_1QsU)
 
 ---
 
